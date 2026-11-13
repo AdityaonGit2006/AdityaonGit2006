@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aditya Raj 👋
 
-<!--
-**AdityaonGit2006/AdityaonGit2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 B.Tech Student | Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+I'm a  B.Tech student passionate about technology, programming, and intelligent systems. Currently, I'm building my foundation in computer science while exploring Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning.
+- 💻 Learning Data Structures & Algorithms.
+- 🤖 Exploring Machine Learning and AI.
+- 🐍 Practicing Python and C++ programming.
+- 📚 Interested in problem-solving and software development.
+- 🎯 Focused on building practical projects and improving technical skills.
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- C++
+- C
+
+**Core Computer Science**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management (Learning)
+
+
